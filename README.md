@@ -1,6 +1,7 @@
 # Promethic MCP
 
-Public packaging and docs for the [Promethic](https://getpromethic.com) hosted MCP server.
+P[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/getpromethic-com-agents)
+ublic packaging and docs for the [Promethic](https://getpromethic.com) hosted MCP server.
 
 Promethic is a prompt library: store versioned prompts where you set the model, switch models, and dial API-only settings (reasoning, verbosity, and other dials). Text, image, and JSON. Edit the output as you work; it tracks those edits and successful copy/download. Refine proposes the next version.
 
