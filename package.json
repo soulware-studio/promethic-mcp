@@ -1,0 +1,11 @@
+{
+  "name": "@soulwarestudio/promethic-mcp",
+  "version": "0.1.0",
+  "description": "Promethic hosted MCP connection info and packaging",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest"
+  }
+}
